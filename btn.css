@@ -1,0 +1,13 @@
+.btn {
+  background-color: #041925; /* color de fondo */
+  border: none; /* borde */
+  color: black; /* color del texto */
+  padding: 12px 24px; /* padding interno */
+  text-align: center; /* alineación del texto */
+  text-decoration: none; /* decoración del texto */
+  display: inline-block; /* display */
+  font-size: 16px; /* tamaño de fuente */
+  margin: 4px 2px; /* margen */
+  cursor: pointer; /* cursor */
+  border-radius: 8px; /* radio del borde */
+}
